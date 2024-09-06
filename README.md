@@ -1,7 +1,12 @@
 # IAUS391_JWST_Workshop
-Material for the NIRSpec Hands-on workshop for researches based in Africa. 
+Material for the NIRSpec Hands-on workshop for researches based in Africa. This workshop was supported by the Direct Aid Program of the Australian Government (administered through the Australian High Commission in Pretoria) and the International Astronomical Union. 
 
- link for the workshop: https://www.youtube.com/watch?v=IMQCZ2M4CdI
+The lectures can be found [here](https://www.youtube.com/watch?v=IMQCZ2M4CdI) <br> 
+IAUS#391 Symposium Recordings:<br>  
+[Day 1](https://www.youtube.com/live/H3oX-g_Tfhg?si=G94usA0tq131C8Xi&t=1443) <br> 
+[Day 2](https://www.youtube.com/live/nQjGWno9x3I?si=LuSCFbZIfNjFZpPX) <br> 
+[Day 3](https://www.youtube.com/live/-RSsn2BNFcU?si=7vuSOXglOMw7zkG0) <br> 
+[Day 4: Plenary](https://www.youtube.com/live/qKqOYnjPNlM?si=B4VL59K-djeOgTiA)
 
 ## Proposal Planning 
 
